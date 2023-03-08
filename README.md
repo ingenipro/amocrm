@@ -5,6 +5,6 @@
 ### Через composer:
 
 ```bash
-$ composer require ksenonda/amocrm-2
+$ composer require ingenipro/amocrm
 ```
 
